@@ -219,4 +219,8 @@ button {
         background-color: hsl(183, 100%, 15%);
         border-radius: 15px;
     }
+    .w2{
+        color: red;
+        font-size: 8px;
+    }
 }
