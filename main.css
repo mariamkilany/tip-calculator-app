@@ -158,9 +158,11 @@ button {
         display: flex;
         flex-direction: column;
         background-color: white;
-        padding: 15px;
         height: 450px;
         border-radius: 15px;
+        padding: 20px;
+        align-items: center;
+        
     }
 
     .inpt {
