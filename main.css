@@ -24,7 +24,7 @@ body {
     flex-direction: row;
     background-color: white;
     padding: 30px;
-    height: 50%;
+    height: 300px;
     border-radius: 15px;
 }
 
@@ -159,7 +159,7 @@ button {
         flex-direction: column;
         background-color: white;
         padding: 15px;
-        height: 80%;
+        height: 300px;
         border-radius: 15px;
     }
 
